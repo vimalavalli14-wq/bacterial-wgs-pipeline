@@ -1,4 +1,4 @@
-# Bacterial Whole Genome Sequencing (WGS) Analysis Pipeline
+# Bacterial Illumina Sequencing Analysis Pipeline
 
 This repository demonstrates a **bacterial whole genome sequencing (WGS) analysis workflow** using Illumina sequencing data. The project is designed as a **portfolio mini-project** to showcase practical skills in **bioinformatics, Python scripting, Linux-based workflows, and reproducible genomics analysis**, relevant for R&D environments.
 
