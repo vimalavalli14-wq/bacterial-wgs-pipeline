@@ -54,8 +54,7 @@ Scripts are located in the `scripts/` directory.
 
 ## Repository Structure
 
-```
-bacterial-wgs-pipeline/
+```Bacterial Illumina Sequencing Analysis Pipeline/
 ├── scripts/                 # Python scripts for analysis and visualization
 ├── results/                 # Small result files (CSV summaries, plots)
 ├── README.md                # Project documentation
